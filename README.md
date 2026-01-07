@@ -83,5 +83,3 @@ Requires WebGL support.
 This project is open source and available for educational purposes.
 
 ---
-
-*Made with ❤️ and Three.js*
